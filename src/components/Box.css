@@ -1,0 +1,39 @@
+.box {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    width: 250px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .box-heading {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 8px;
+  }
+  
+  .box-text {
+    font-weight: bold;
+    color: #555;
+    margin-bottom: 16px;
+  }
+  
+  .box-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .box-dots {
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .box-feature {
+    font-size: 14px;
+    color: #007bff;
+    cursor: pointer;
+  }
+  
